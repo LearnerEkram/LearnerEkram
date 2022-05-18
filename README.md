@@ -1,7 +1,6 @@
 ### Hi there 👋, My name is Akramul Islam
 #### I am a professional web designer.
-![I am a professional web designer.][<img src=F:\Akramul/cover picture.png]
-(https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a professional web designer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I'm Akarmul Islam. Passionate and creative website designer. I can create professional and organized websites that are attractive and responsive. I specialize in website designing, personal portfolio designing, banner designing, etc. And also I can convert PSD to HTML or BOOTSTRAP. Thinking differently. I trust my skills and hope you will get the best designs.
 
