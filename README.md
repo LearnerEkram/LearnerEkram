@@ -1,5 +1,4 @@
-### Hi there 👋, 
-##My name is Akramul Islam
+### Hi there 👋, My name is Akramul Islam
 #### I am a professional web designer.
 ![I am a professional web designer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
